@@ -2,7 +2,8 @@
 Quiet power for visible ideas.
 
 > 🌐 Languages: 
-[English](./docs/en/README.md) ｜ [简体中文](./docs/zh-Hans/README.md) 
+[English](https://github.com/ling3ye/e-ink-esp32-s3/blob/main/docs/en/README.md) ｜ [简体中文](https://github.com/ling3ye/e-ink-esp32-s3/blob/main/docs/zh-Hans/README.md) 
+
 
 An open-source e-ink display project based on the **ESP32-S3**. Perfect for desktop calendars, to-do lists, stock prices, weather updates, news dashboards, and more.
 
